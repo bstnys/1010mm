@@ -6,11 +6,11 @@
 }
 .BG{
     z-index: -1;
-    background-image: url(img/congirl.gif);
     background-attachment: fixed;
     background-size:auto;
     position: fixed;
     opacity: 30%;
+    scale: 300%;
 }
 .cong{
     width: 804px;
